@@ -40,5 +40,5 @@ The following only required in a sense of "pack will be unplayable past a certai
 [Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-112x-community-tech-tree-july-3/)
 
 # Licensing
-All config (.cfg, plaintext files) licensed Apache 2.0.
+All config (.cfg, plaintext files) licensed MIT.
 All texture assets are All Rights Reserved.
