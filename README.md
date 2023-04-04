@@ -30,6 +30,15 @@ Fur full details, read the KSP Forum Post (TODO).
 (Technically not a dependency, but heavily recommended)
 [Avali Space Program](https://forum.kerbalspaceprogram.com/index.php?/topic/207474-112x-avali-space-program/)
 
+
+The following only required in a sense of "pack will be unplayable past a certain point without these". I balanced this pack with these mods in mind.
+
+[Near Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/)
+
+[Far Future Technologies](https://forum.kerbalspaceprogram.com/index.php?/topic/199070-112x-far-future-technologies-august-23-new-engine/) - But will probably also work with KSP-IE.
+
+[Community Tech Tree](https://forum.kerbalspaceprogram.com/index.php?/topic/90530-112x-community-tech-tree-july-3/)
+
 # Licensing
 All config (.cfg, plaintext files) licensed Apache 2.0.
 All texture assets are All Rights Reserved.
