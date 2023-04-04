@@ -9,6 +9,13 @@ Fur full details, read the KSP Forum Post (TODO).
   <br>
 </html>
 
+# Features
+ ..* Start on a moon with a thick atmosphere and low gravity, providing a unique early-game experience
+ ..* Large-scaled solar system, requiring you to take a different approach to interplanetary missions
+ ..* Full support for SpaceDust and Community Resource Pack - ISRU is your friend! (also should make off-world construction easier)
+ ..* Three interstellar destinations nearby - FFT or KSPIE recommended!
+ ..* Avali!!!!
+
 # Dependencies
 [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
 
@@ -19,6 +26,9 @@ Fur full details, read the KSP Forum Post (TODO).
 [Tholin’s PQS Additions (bundled with release)](https://github.com/89Mods/TholinsPqsAdditions/releases)
 
 [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
+
+(Technically not a dependency, but heavily recommended)
+[Avali Space Program](https://forum.kerbalspaceprogram.com/index.php?/topic/207474-112x-avali-space-program/)
 
 # Licensing
 All config (.cfg, plaintext files) licensed Apache 2.0.
