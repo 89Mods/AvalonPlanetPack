@@ -10,11 +10,11 @@ Fur full details, read the KSP Forum Post (TODO).
 </html>
 
 # Features
- ..* Start on a moon with a thick atmosphere and low gravity, providing a unique early-game experience
- ..* Large-scaled solar system, requiring you to take a different approach to interplanetary missions
- ..* Full support for SpaceDust and Community Resource Pack - ISRU is your friend! (also should make off-world construction easier)
- ..* Three interstellar destinations nearby - FFT or KSPIE recommended!
- ..* Avali!!!!
+ * Start on a moon with a thick atmosphere and low gravity, providing a unique early-game experience
+ * Large-scaled solar system, requiring you to take a different approach to interplanetary missions
+ * Full support for SpaceDust and Community Resource Pack - ISRU is your friend! (also should make off-world construction easier)
+ * Three interstellar destinations nearby - FFT or KSPIE recommended!
+ * Avali!!!!
 
 # Dependencies
 [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
