@@ -2,7 +2,7 @@
 A KSP 1 planet pack set in the home of the Avali. You start with the moon of Avalon as your homeworld, initially exploring the other moons of the Valaya system, before going to the other planets in the star system, and ultimately reaching for the stars.
 
 <html>
-<img src="https://raw.githubusercontent.com/89Mods/AvalonPlanetPack/main/docs/DisplayImage2.png" style="width: 50%;" />
+<img src="https://raw.githubusercontent.com/89Mods/AvalonPlanetPack/main/docs/DisplayImage2.png" style="width: 50%; margin-left: auto; margin-right: auto;" />
 </html>
 
 # Licensing
